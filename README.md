@@ -1,3 +1,3 @@
 # landing-page
 
-[My website](https://jordanlevett.github.io/landing-page/)
+[Landing page](https://jordanlevett.github.io/landing-page/)
